@@ -7,7 +7,7 @@
   <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=hack-the-box"/>
 </p>
 
-----------
+-------
 
 <h2>A little more about me...</h2>
 
