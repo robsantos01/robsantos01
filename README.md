@@ -5,7 +5,7 @@
 </p>
 
 <h4>
-<em>Discord: Luck#8118</em>
+Discord: <em>Luck#8118</em>
 </h4>
 
 -------
