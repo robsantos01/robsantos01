@@ -5,7 +5,7 @@
 </p>
 
 <h3>
-<em><img src="https://simpleicons.org/icons/discord.svg" width="50px" alt="Stats"/> Discord: Luck#8118</em>
+<em>Discord: Luck#8118</em>
 </h3>
 
 -------
