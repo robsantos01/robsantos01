@@ -1,9 +1,9 @@
 <div>
 <h2>Hi there, I'm Luck</h2>
 </div>
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
-  <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=hack-the-box"/>
+<p>
+  <img src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
+  <img src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=hack-the-box"/>
 </p>
 
 -------
