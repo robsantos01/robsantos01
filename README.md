@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="50" align="center" display="block">
-<h2 align="center">void init(){ char *memAdd = "Luck"; exit(); }</h2>
+<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="150" align="center" display="block">
+<h2 align="center">I'm Luck</h2>
+<h3 align="center">Hi there</h3>
 </div>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
