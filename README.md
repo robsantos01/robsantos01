@@ -1,7 +1,7 @@
-<div align="center">
+<div>
 <img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="90" align="center" display="block">
-<h2 align="center">I'm Luck</h2>
-<h3 align="center">Hi there</h3>
+<h2>I'm Luck</h2>
+<h3>Hi there</h3>
 </div>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
