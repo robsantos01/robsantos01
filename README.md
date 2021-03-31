@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="150" align="center" display="block">
+<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="50" align="center" display="block">
 <h2 align="center">void init(){ char *memAdd = "Luck"; exit(); }</h2>
 </div>
 <p align="center">
