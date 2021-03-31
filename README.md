@@ -9,7 +9,7 @@
 
 -------
 
-<h2><img src="https://media.giphy.com/media/MuHSqbgfSvAdCi6bv0/giphy.gif" width="100" align="center" display="block"> A little more about me...</h2>
+<h2><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" display="block"> A little more about me...</h2>
 
 ```c
 int me() {
@@ -32,3 +32,5 @@ int main(int argc, char *argv[]) {
 <img src="https://github-readme-stats.vercel.app/api?username=Luck0101&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Stats"/>
 </p>
 <br />
+
+<img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" alt="Avatar">
