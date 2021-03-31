@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-## Stats
+<h2><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" display="block"> Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Luck0101&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Stats"/>
@@ -34,5 +34,5 @@ int main(int argc, char *argv[]) {
 <br />
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" align="center" style="border-radius: 45px 0.1px 45px 0.1px;">
+  <img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" align="center" style="border-radius:50%">
 </div>
