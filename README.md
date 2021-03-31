@@ -9,8 +9,7 @@
 
 ----------
 
-
-## A little more about me...
+<h2>A little more about me...</h2>
 
 ```c
 int me() {
