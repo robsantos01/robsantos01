@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="150" align="center" display="block">
+<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="90" align="center" display="block">
 <h2 align="center">I'm Luck</h2>
 <h3 align="center">Hi there</h3>
 </div>
