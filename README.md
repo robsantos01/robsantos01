@@ -1,7 +1,7 @@
 ### Hi there, I'm Luck
 
 
-<p align="center">
+<p>
   <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
   <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=hack-the-box"/>
 </p>
