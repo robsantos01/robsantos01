@@ -9,7 +9,7 @@
 
 -------
 
-<h2><img src="https://cdn.dribbble.com/users/99875/screenshots/2400678/who-dares-wins.gif" width="80" align="center" display="block"> A little more about me...</h2>
+<h2><img src="https://cdn.dribbble.com/users/99875/screenshots/2400678/who-dares-wins.gif" width="100" align="center" display="block"> A little more about me...</h2>
 
 ```c
 int me() {
