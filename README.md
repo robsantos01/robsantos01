@@ -18,9 +18,11 @@ int me() {
   return (void *)&luck;
 }
 
-typedef struct {
-  char code[] = ['Javascript', 'C', 'HTML', 'CSS', 'Assembly', 'Python', 'Java', 'C Sharp', 'C++'];
-  char tools[] = ['React', 'Redux', 'Node', 'Styled-Components', 'Docker'];
-  int* memoryAddress = me();
-} Me;
+int main(int argc, char *argv[]) {
+  typedef struct {
+    char code[] = ['Javascript', 'C', 'HTML', 'CSS', 'Assembly', 'Python', 'Java', 'C Sharp', 'C++'];
+    char tools[] = ['React', 'Redux', 'Node', 'Styled-Components', 'Docker'];
+    int* memoryAddress = me();
+  } Me;
+}
 ```
