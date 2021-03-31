@@ -9,7 +9,7 @@
 
 -------
 
-<h2>A little more about me...</h2>
+<h2><img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="80" align="center" display="block"> A little more about me...</h2>
 
 ```c
 int me() {
