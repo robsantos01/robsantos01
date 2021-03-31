@@ -34,5 +34,5 @@ int main(int argc, char *argv[]) {
 <br />
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" align="center" style="border-radius:50%">
+  <img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" align="center" style="border-radius:50%;">
 </div>
