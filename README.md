@@ -33,4 +33,6 @@ int main(int argc, char *argv[]) {
 </p>
 <br />
 
-<img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" alt="Avatar">
+<div align="center">
+  <img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" align="center" alt="Avatar">
+</div>
