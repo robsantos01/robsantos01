@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="80" align="center" display="block">
+<img src="https://cdn130.picsart.com/311927672041201.gif?to=min&r=640" width="120" align="center" display="block">
 <h2 align="center">void init(){ char *memAdd = "Luck"; exit(); }</h2>
 </div>
 <p align="center">
@@ -26,7 +26,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-<h2><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" display="block"> Stats</h2>
+<h2><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" display="block"> 𝐒𝐭𝐚𝐭𝐬</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Luck0101&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Stats"/>
