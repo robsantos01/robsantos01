@@ -33,6 +33,10 @@ int main(int argc, char *argv[]) {
 </p>
 <br />
 
+<h2 align="center">
+  <em>Discord: Luck#8118</em>
+</h2>
+
 <div align="center">
    <a href="url"><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" height="auto" width="200" style="border-radius:50%"></a>
 </div>
