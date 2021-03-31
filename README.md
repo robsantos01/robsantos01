@@ -9,7 +9,7 @@
 
 -------
 
-<h2><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" display="block"> A little more about me...</h2>
+<h2><img src="https://64.media.tumblr.com/1d5636b2df207586d4b554fc42646286/tumblr_pa99n1MVNm1totduro1_500.gifv" width="100" align="center" display="block"> 𝐀 𝐥𝐢𝐭𝐭𝐥𝐞 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞...</h2>
 
 ```c
 int me() {
