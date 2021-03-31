@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Luck </h2>
+<h2 align="center">Hi there, I'm Luck <img src="https://media.giphy.com/media/3oEdv8elIVRa3daNl6/giphy.gif" width="50"></h2>
 
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
