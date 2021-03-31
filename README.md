@@ -1,6 +1,5 @@
 <div>
-<h2>I'm Luck</h2>
-<h3>Hi there</h3>
+<h2>Hi there, I'm Luck</h2>
 </div>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
