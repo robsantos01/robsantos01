@@ -1,7 +1,7 @@
 ### Hi there <your_username/>! I'm Luck <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
   <img src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
-  <img src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=hack-the-box"/>
+  <img src="https://img.shields.io/badge/Programmer-141321?style=flat-square&logo=hack-the-box"/>
 </p>
 
 <h4>
