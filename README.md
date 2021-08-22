@@ -20,8 +20,8 @@ int me() {
 
 int main(int argc, char *argv[]) {
   typedef struct {
-    char code[] = ['Javascript', 'C', 'HTML', 'CSS', 'Assembly', 'Python', 'Java', 'C Sharp', 'C++'];
-    char tools[] = ['React', 'Redux', 'Node', 'Styled-Components', 'Docker'];
+    char code[] = ['Javascript', 'C', 'HTML', 'CSS', 'Assembly', 'Python', 'Java', 'C Sharp', 'C++', 'Typescript'];
+    char tools[] = ['ReactJS', 'React Native', 'NodeJS', 'Styled-Components', 'Docker', 'Socket.io'];
     int* memoryAddress = me();
   } Me;
 }
