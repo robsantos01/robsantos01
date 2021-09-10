@@ -1,11 +1,11 @@
-### Hi there <your_username/>! I'm Lipe <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there <your_username/>! I'm Focus <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
   <img src="https://img.shields.io/badge/Offensive%20Security-141321?style=flat-square&logo=Red-Hat"/>
   <img src="https://img.shields.io/badge/Programmer-141321?style=flat-square&logo=hack-the-box"/>
 </p>
 
 <h4>
-Discord: <em>Lipe#0101</em>
+Discord: <em>Focus#0101</em>
 </h4>
 
 -------
@@ -15,7 +15,7 @@ Discord: <em>Lipe#0101</em>
 ```c
 int me() {
   char *lipe = "41 20 6c 69 74 74 6c 65 20 61 62 6f 75 74 20 4c 69 70 65";
-  return (void *)&lipe;
+  return (void *)&Focus;
 }
 
 int main(int argc, char *argv[]) {
