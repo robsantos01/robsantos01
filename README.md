@@ -14,7 +14,7 @@ Discord: <em>Focus#3959</em>
 
 ```c
 int me() {
-  char *lipe = "41 20 6c 69 74 74 6c 65 20 61 62 6f 75 74 20 4c 69 70 65";
+  char *focus = "41 20 6c 69 74 74 6c 65 20 61 62 6f 75 74 20 4c 69 70 65";
   return (void *)&Focus;
 }
 
