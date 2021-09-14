@@ -33,5 +33,3 @@ int main(int argc, char *argv[]) {
 <img src="https://github-readme-stats.vercel.app/api?username=R0bSpy&show_icons=true&theme=shades-of-purple&bg_color=1C00ff00&hide_border=true" alt="Stats"/>
 </p>
 <br />
-
-![Snake animation](https://github.com/R0bSpy/R0bSpy/blob/output/github-contribution-grid-snake.svg)
