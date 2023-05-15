@@ -5,7 +5,7 @@
 </p>
 
 <h4>
-Discord: <em>Focus#3959</em>
+Discord:
 </h4>
 
 -------
